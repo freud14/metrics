@@ -12,7 +12,7 @@ The base ``Metric`` class is an abstract base class that are used as the buildin
 metrics.
 
 .. autoclass:: torchmetrics.Metric
-    :noindex:
+    :noindexentry:
 
 
 *****************
@@ -26,31 +26,31 @@ CatMetric
 ~~~~~~~~~
 
 .. autoclass:: torchmetrics.CatMetric
-    :noindex:
+    :noindexentry:
 
 MaxMetric
 ~~~~~~~~~
 
 .. autoclass:: torchmetrics.MaxMetric
-    :noindex:
+    :noindexentry:
 
 MeanMetric
 ~~~~~~~~~~
 
 .. autoclass:: torchmetrics.MeanMetric
-    :noindex:
+    :noindexentry:
 
 MinMetric
 ~~~~~~~~~
 
 .. autoclass:: torchmetrics.MinMetric
-    :noindex:
+    :noindexentry:
 
 SumMetric
 ~~~~~~~~~
 
 .. autoclass:: torchmetrics.SumMetric
-    :noindex:
+    :noindexentry:
 
 *****
 Audio
@@ -79,37 +79,37 @@ PermutationInvariantTraining
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.PermutationInvariantTraining
-    :noindex:
+    :noindexentry:
 
 SignalDistortionRatio
 ~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.SignalDistortionRatio
-    :noindex:
+    :noindexentry:
 
 ScaleInvariantSignalDistortionRatio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.ScaleInvariantSignalDistortionRatio
-    :noindex:
+    :noindexentry:
 
 ScaleInvariantSignalNoiseRatio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.ScaleInvariantSignalNoiseRatio
-    :noindex:
+    :noindexentry:
 
 SignalNoiseRatio
 ~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.SignalNoiseRatio
-    :noindex:
+    :noindexentry:
 
 ShortTimeObjectiveIntelligibility
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.audio.stoi.ShortTimeObjectiveIntelligibility
-    :noindex:
+    :noindexentry:
 
 
 **************
@@ -218,142 +218,142 @@ Accuracy
 ~~~~~~~~
 
 .. autoclass:: torchmetrics.Accuracy
-    :noindex:
+    :noindexentry:
 
 AveragePrecision
 ~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.AveragePrecision
-    :noindex:
+    :noindexentry:
 
 AUC
 ~~~
 
 .. autoclass:: torchmetrics.AUC
-    :noindex:
+    :noindexentry:
 
 AUROC
 ~~~~~
 
 .. autoclass:: torchmetrics.AUROC
-    :noindex:
+    :noindexentry:
 
 BinnedAveragePrecision
 ~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.BinnedAveragePrecision
-    :noindex:
+    :noindexentry:
 
 BinnedPrecisionRecallCurve
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.BinnedPrecisionRecallCurve
-    :noindex:
+    :noindexentry:
 
 BinnedRecallAtFixedPrecision
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.BinnedRecallAtFixedPrecision
-    :noindex:
+    :noindexentry:
 
 CalibrationError
 ~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.CalibrationError
-    :noindex:
+    :noindexentry:
 
 CohenKappa
 ~~~~~~~~~~
 
 .. autoclass:: torchmetrics.CohenKappa
-    :noindex:
+    :noindexentry:
 
 ConfusionMatrix
 ~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.ConfusionMatrix
-    :noindex:
+    :noindexentry:
 
 F1Score
 ~~~~~~~
 
 .. autoclass:: torchmetrics.F1Score
-    :noindex:
+    :noindexentry:
 
 FBetaScore
 ~~~~~~~~~~
 
 .. autoclass:: torchmetrics.FBetaScore
-    :noindex:
+    :noindexentry:
 
 HammingDistance
 ~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.HammingDistance
-    :noindex:
+    :noindexentry:
 
 HingeLoss
 ~~~~~~~~~
 
 .. autoclass:: torchmetrics.HingeLoss
-    :noindex:
+    :noindexentry:
 
 JaccardIndex
 ~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.JaccardIndex
-    :noindex:
+    :noindexentry:
 
 KLDivergence
 ~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.KLDivergence
-    :noindex:
+    :noindexentry:
 
 MatthewsCorrCoef
 ~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.MatthewsCorrCoef
-    :noindex:
+    :noindexentry:
 
 Precision
 ~~~~~~~~~
 
 .. autoclass:: torchmetrics.Precision
-    :noindex:
+    :noindexentry:
 
 PrecisionRecallCurve
 ~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.PrecisionRecallCurve
-    :noindex:
+    :noindexentry:
 
 Recall
 ~~~~~~
 
 .. autoclass:: torchmetrics.Recall
-    :noindex:
+    :noindexentry:
 
 
 ROC
 ~~~
 
 .. autoclass:: torchmetrics.ROC
-    :noindex:
+    :noindexentry:
 
 
 Specificity
 ~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.Specificity
-    :noindex:
+    :noindexentry:
 
 
 StatScores
 ~~~~~~~~~~
 
 .. autoclass:: torchmetrics.StatScores
-    :noindex:
+    :noindexentry:
 
 *****
 Image
@@ -366,49 +366,49 @@ FrechetInceptionDistance
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.image.fid.FrechetInceptionDistance
-    :noindex:
+    :noindexentry:
 
 InceptionScore
 ~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.image.inception.InceptionScore
-    :noindex:
+    :noindexentry:
 
 KernelInceptionDistance
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.image.kid.KernelInceptionDistance
-    :noindex:
+    :noindexentry:
 
 LearnedPerceptualImagePatchSimilarity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.image.lpip.LearnedPerceptualImagePatchSimilarity
-    :noindex:
+    :noindexentry:
 
 MultiScaleStructuralSimilarityIndexMeasure
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.MultiScaleStructuralSimilarityIndexMeasure
-    :noindex:
+    :noindexentry:
 
 PeakSignalNoiseRatio
 ~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.PeakSignalNoiseRatio
-    :noindex:
+    :noindexentry:
 
 StructuralSimilarityIndexMeasure
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.StructuralSimilarityIndexMeasure
-    :noindex:
+    :noindexentry:
 
 UniversalImageQualityIndex
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.UniversalImageQualityIndex
-    :noindex:
+    :noindexentry:
 
 *********
 Detection
@@ -420,7 +420,7 @@ MeanAveragePrecision
 ~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.detection.map.MeanAveragePrecision
-    :noindex:
+    :noindexentry:
 
 **********
 Regression
@@ -430,76 +430,76 @@ CosineSimilarity
 ~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.CosineSimilarity
-    :noindex:
+    :noindexentry:
 
 
 ExplainedVariance
 ~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.ExplainedVariance
-    :noindex:
+    :noindexentry:
 
 
 MeanAbsoluteError
 ~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.MeanAbsoluteError
-    :noindex:
+    :noindexentry:
 
 
 MeanAbsolutePercentageError
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.MeanAbsolutePercentageError
-    :noindex:
+    :noindexentry:
 
 
 MeanSquaredError
 ~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.MeanSquaredError
-    :noindex:
+    :noindexentry:
 
 
 MeanSquaredLogError
 ~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.MeanSquaredLogError
-    :noindex:
+    :noindexentry:
 
 
 PearsonCorrCoef
 ~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.PearsonCorrCoef
-    :noindex:
+    :noindexentry:
 
 
 R2Score
 ~~~~~~~
 
 .. autoclass:: torchmetrics.R2Score
-    :noindex:
+    :noindexentry:
 
 
 SpearmanCorrCoef
 ~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.SpearmanCorrCoef
-    :noindex:
+    :noindexentry:
 
 SymmetricMeanAbsolutePercentageError
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.SymmetricMeanAbsolutePercentageError
-    :noindex:
+    :noindexentry:
 
 
 TweedieDevianceScore
 ~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.TweedieDevianceScore
-    :noindex:
+    :noindexentry:
 
 
 *********
@@ -563,56 +563,56 @@ RetrievalMAP
 ~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.RetrievalMAP
-    :noindex:
+    :noindexentry:
 
 
 RetrievalMRR
 ~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.RetrievalMRR
-    :noindex:
+    :noindexentry:
 
 
 RetrievalPrecision
 ~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.RetrievalPrecision
-    :noindex:
+    :noindexentry:
 
 
 RetrievalRPrecision
 ~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.RetrievalRPrecision
-    :noindex:
+    :noindexentry:
 
 
 RetrievalRecall
 ~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.RetrievalRecall
-    :noindex:
+    :noindexentry:
 
 
 RetrievalFallOut
 ~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.RetrievalFallOut
-    :noindex:
+    :noindexentry:
 
 
 RetrievalNormalizedDCG
 ~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.RetrievalNormalizedDCG
-    :noindex:
+    :noindexentry:
 
 
 RetrievalHitRate
 ~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.RetrievalHitRate
-    :noindex:
+    :noindexentry:
 
 ****
 Text
@@ -622,79 +622,79 @@ BERTScore
 ~~~~~~~~~~
 
 .. autoclass:: torchmetrics.text.bert.BERTScore
-    :noindex:
+    :noindexentry:
 
 BLEUScore
 ~~~~~~~~~
 
 .. autoclass:: torchmetrics.BLEUScore
-    :noindex:
+    :noindexentry:
 
 CharErrorRate
 ~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.CharErrorRate
-    :noindex:
+    :noindexentry:
 
 CHRFScore
 ~~~~~~~~~
 
 .. autoclass:: torchmetrics.CHRFScore
-    :noindex:
+    :noindexentry:
 
 ExtendedEditDistance
 ~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.ExtendedEditDistance
-    :noindex:
+    :noindexentry:
 
 MatchErrorRate
 ~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.MatchErrorRate
-    :noindex:
+    :noindexentry:
 
 ROUGEScore
 ~~~~~~~~~~
 
 .. autoclass:: torchmetrics.text.rouge.ROUGEScore
-    :noindex:
+    :noindexentry:
 
 SacreBLEUScore
 ~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.SacreBLEUScore
-    :noindex:
+    :noindexentry:
 
 SQuAD
 ~~~~~
 
 .. autoclass:: torchmetrics.SQuAD
-    :noindex:
+    :noindexentry:
 
 TranslationEditRate
 ~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.TranslationEditRate
-    :noindex:
+    :noindexentry:
 
 WordErrorRate
 ~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.WordErrorRate
-    :noindex:
+    :noindexentry:
 
 WordInfoLost
 ~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.WordInfoLost
-    :noindex:
+    :noindexentry:
 
 WordInfoPreserved
 ~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.WordInfoPreserved
-    :noindex:
+    :noindexentry:
 
 
 ********
@@ -708,28 +708,28 @@ BootStrapper
 ~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.BootStrapper
-    :noindex:
+    :noindexentry:
 
 ClasswiseWrapper
 ~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.ClasswiseWrapper
-    :noindex:
+    :noindexentry:
 
 MetricTracker
 ~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.MetricTracker
-    :noindex:
+    :noindexentry:
 
 MinMaxMetric
 ~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.MinMaxMetric
-    :noindex:
+    :noindexentry:
 
 MultioutputWrapper
 ~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: torchmetrics.MultioutputWrapper
-    :noindex:
+    :noindexentry:
